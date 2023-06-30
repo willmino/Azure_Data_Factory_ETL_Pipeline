@@ -3,8 +3,6 @@
 - The Pipeline outputs a **Power BI** Dashboard for automated data reporting.
 - The Dataset can be **Refreshed** to display an updated set of data in the Power BI Dashboard based on the input data.
 
-## SQL
-
 
 <div>
   <img src="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/SQL.png" alt="Image" width="150" height="150">
