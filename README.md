@@ -7,5 +7,5 @@
 
 
 <div>
-  <img src="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/SQL.png" alt="Image" width="100" height="100">
+  <img src="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/SQL.png" alt="Image" width="150" height="150">
 </div>
