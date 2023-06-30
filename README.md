@@ -5,6 +5,6 @@
 
 ## SQL
 
-![]()
+![SQL](https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/SQL.png)
 
 
