@@ -16,7 +16,7 @@
   </ul>
 </div>
 
-<div style=margin-center>
+<div>
   <img src="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/ADF.png" alt="Image" width="380" height="150">
     <ul style="list-style-type: disc; margin-left: 120px;">
     <li>Azure Data Factory</li>
