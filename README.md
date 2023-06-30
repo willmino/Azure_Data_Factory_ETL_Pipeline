@@ -12,7 +12,7 @@
     <li>I host, maintain, and run two Azure SQL databases.</li>
     <li>Database 1: Raw Data Storage.</li>
     <li>Database 2: Data Warehouse.</li>
-    <li> Stored procedures are used to clean the raw data and transfer it to the Data Warehouse <a href="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/tree/main/Files/SQL">Learn More Here</a></li>
+    <li> Stored procedures clean raw data and transfer clean data to the Data Warehouse. <a href="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/tree/main/Files/SQL">Learn More Here</a></li>
   </ul>
 </div>
 
