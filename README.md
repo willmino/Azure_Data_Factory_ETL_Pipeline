@@ -20,7 +20,7 @@
   <img src="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/ADF.png" alt="Image" width="380" height="150">
     <ul style="list-style-type: disc; margin-left: 120px;">
     <li>Azure Data Factory: a cloud based platform which ingests data, performs transfer functions, and triggers SQL stored procedures to manipulate data in a SQL database.</li>
-    <li> <a href="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/tree/main/Files/SQL">Learn More Here</a></li>
+    <li> <a href="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/tree/main/Files/Azure%20Data%20Factory">Learn More Here</a></li>
   </ul>
 </div>
 
