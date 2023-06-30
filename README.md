@@ -15,6 +15,3 @@
   </ul>
 </div>
 
-![Click here to view Bootstrap-styled content](style.html)
-<!--END_SECTION:bootstrap-styling-->
-
