@@ -28,7 +28,7 @@
   <img src="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/PowerBI.png" alt="Image" width="380" height="150">
     <ul style="list-style-type: disc; margin-left: 120px;">
     <li>POWER BI</li>
-    <li> <a href="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/tree/main/Files/Azure%20Data%20Factory">Learn More Here</a></li>
+    <li> <a href="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/tree/main/Files/Power%20BI">Learn More Here</a></li>
   </ul>
 </div>
 
