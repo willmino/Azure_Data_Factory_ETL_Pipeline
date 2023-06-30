@@ -16,8 +16,8 @@
   </ul>
 </div>
 
-<div>
-  <img src="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/ADF.png" alt="Image" width="380" height="150" style=margin-center>
+<div style=margin-center>
+  <img src="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/ADF.png" alt="Image" width="380" height="150">
     <ul style="list-style-type: disc; margin-left: 120px;">
     <li>Azure Data Factory</li>
     <li> Stored procedures clean raw data and transfer clean data to the Data Warehouse. <a href="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/tree/main/Files/SQL">Learn More Here</a></li>
