@@ -9,9 +9,9 @@
 <div>
   <img src="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/SQL.png" alt="Image" width="150" height="150">
     <ul style="list-style-type: disc; margin-left: 120px;">
-    <li>Bullet point 1</li>
-    <li>Bullet point 2</li>
-    <li>Bullet point 3</li>
+    <li>I host, maintain, and run two Azure SQL database.</li>
+    <li>One SQL database stores raw data. The other SQL database database serves as a Data Warehouse.</li>
+    <li>![Click here to view the process of SQL data cleaning and stored procedures]().</li>
   </ul>
 </div>
 
