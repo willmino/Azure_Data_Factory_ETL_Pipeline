@@ -1,7 +1,7 @@
 # Automated ETL Pipeline via Azure Data Factory
 - I use a cloud based platform (**Azure**) to automatically clean raw data with **SQL** for insertion into a **Data Warehouse**. 
 - The Pipeline outputs a **Power BI** Dashboard for automated data reporting.
-- The Data is "**Refreshed**" and the most recent data is displayed in the Power BI Dashboard based on the input data.
+- The Data is "**Refreshed**" and the most recent input data is displayed in the Power BI Dashboard.
 
 
 
