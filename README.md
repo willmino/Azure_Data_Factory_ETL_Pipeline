@@ -10,7 +10,8 @@
   <img src="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/SQL.png" alt="Image" width="150" height="150">
     <ul style="list-style-type: disc; margin-left: 120px;">
     <li>I host, maintain, and run two Azure SQL databases.</li>
-    <li>One SQL database stores raw data. The other SQL database database serves as a Data Warehouse.</li>
+    <li>One SQL database stores raw data. The other SQL database \ serves as a Data Warehouse.</li>
+    <li> Stored procedures are used to clean the raw data and transfer cleaned data to a Data Warehouse for end-users.</li>
   </ul>
 </div>
 
