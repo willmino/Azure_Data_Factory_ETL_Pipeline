@@ -5,4 +5,4 @@
 - ![Dataset1](https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/Dataset_1.png)
 
 - Here is an image of the Second Data Set in the Dashboard. This happened after changing the input data set and triggering the Refresh:
-- ![Dataset2](https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/Dataset_1.png)
+- ![Dataset2](https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/Dataset_2.png)
