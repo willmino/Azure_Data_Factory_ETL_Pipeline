@@ -4,6 +4,8 @@
 - The Dataset can be **Refreshed** to display an updated set of data in the Power BI Dashboard based on the input data.
 
 
+
+<!--START_SECTION:bootstrap-styling-->
 <div>
   <img src="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/SQL.png" alt="Image" width="150" height="150">
     <ul style="list-style-type: disc; margin-left: 120px;">
@@ -12,3 +14,7 @@
     <li>Bullet point 3</li>
   </ul>
 </div>
+
+![Click here to view Bootstrap-styled content](style.html)
+<!--END_SECTION:bootstrap-styling-->
+
