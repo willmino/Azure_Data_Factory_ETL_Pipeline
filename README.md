@@ -14,5 +14,5 @@
   </ul>
 </div>
 
-  [Click here to view the process of SQL data cleaning and stored procedures](https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/tree/main/Files/SQL).
+  [Click for SQL data cleaning and stored procedures](https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/tree/main/Files/SQL).
 
