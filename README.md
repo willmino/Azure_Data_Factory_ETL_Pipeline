@@ -6,6 +6,6 @@
 ## SQL
 
 
-<div align="left">
-  <img src="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/SQL.png-url" alt="Image" width="100" height="100">
+<div>
+  <img src="https://github.com/willmino/Azure_Data_Factory_ETL_Pipeline/blob/main/Files/Images/SQL.png" alt="Image" width="100" height="100">
 </div>
